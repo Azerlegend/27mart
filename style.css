@@ -1,0 +1,78 @@
+.facee{
+    fill:blue;
+    width: 20px;
+
+    padding: 12.5px;
+}
+.circle{
+    width: 45px;
+    height: 45px;
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+  
+}
+.twitter{
+    fill:aqua;
+    width: 20px;
+
+    padding: 12.5px;
+}
+.circletwitter{
+    display: inline-block ;
+    margin-left:70px;
+    width: 45px;
+    height: 45px;
+    border: 2px solid aqua;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+}
+.instadiv{
+    display: inline-block ;
+    margin-left:140px;
+    width: 45px;
+    height: 45px;
+    border: 2px solid mediumslateblue;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+
+}
+.insta{
+    fill:mediumslateblue;
+    width: 20px;
+
+    padding: 12.5px;
+}
+.lin{
+    fill:blue;
+    width: 20px;
+
+    padding: 12.5px;
+}
+.lindiv{
+    width: 45px;
+    height: 45px;
+    margin-left: 210px;
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+}
+.userdiv{
+    width: 45px;
+    height: 45px;
+    margin-left: 280px;
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+}
+.user{
+    fill:blue;
+    width: 20px;
+
+    padding: 12.5px;
+}

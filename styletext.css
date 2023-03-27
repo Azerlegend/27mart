@@ -1,0 +1,31 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&display=swap');
+
+  header{
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+    font-size: 45px;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Roboto&display=swap');
+  p{
+    font-family: 'Roboto', sans-serif;
+ margin:20px;
+    text-align: center;
+    font-size: 15px;
+  }
+  img{
+   margin-left: 250px;
+  }
+  .divv{
+    margin-left: 230px;
+    padding-right: 15%;
+  }
+  #bolderp{
+    font-weight: bolder;
+    color:darkgray
+  }
+  #Lor{
+   line-height: 40px;
+   text-align: left;
+   color:gray;
+  }
